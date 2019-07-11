@@ -1,0 +1,26 @@
+{
+  "name": "Lab-Project",
+  "version": "1.0.0",
+  "description": "practice NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smhemel/Lab-Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smhemel/Lab-Project/issues"
+  },
+  "homepage": "https://github.com/smhemel/Lab-Project#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.6.2",
+    "express": "^4.17.1",
+    "mongoose": "^5.6.4"
+  }
+}
